@@ -1,0 +1,14 @@
+package fr.koor.webstore.ihm.tags;
+
+import javax.servlet.jsp.tagext.TagSupport;
+
+public class LoginForm extends TagSupport {
+
+	private String action;
+	private String login;
+	private String password;
+	
+	
+	
+	
+}

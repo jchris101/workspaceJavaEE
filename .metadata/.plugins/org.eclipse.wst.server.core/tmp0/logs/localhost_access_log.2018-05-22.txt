@@ -1,0 +1,8 @@
+127.0.0.1 - - [22/May/2018:09:43:28 +0200] "GET / HTTP/1.1" 404 1005
+127.0.0.1 - - [22/May/2018:09:43:28 +0200] "GET /WebStore/export.xls HTTP/1.1" 200 4096
+0:0:0:0:0:0:0:1 - - [22/May/2018:09:44:10 +0200] "GET /WebStore/export.xls HTTP/1.1" 200 4096
+0:0:0:0:0:0:0:1 - - [22/May/2018:09:44:35 +0200] "GET /WebStore/export.xls HTTP/1.1" 200 4096
+0:0:0:0:0:0:0:1 - - [22/May/2018:09:47:05 +0200] "GET /WebStore/export.xls HTTP/1.1" 200 4096
+0:0:0:0:0:0:0:1 - - [22/May/2018:09:53:04 +0200] "GET /WebStore/export.xls HTTP/1.1" 200 5632
+0:0:0:0:0:0:0:1 - - [22/May/2018:09:58:32 +0200] "GET /WebStore/export.xls HTTP/1.1" 200 5632
+0:0:0:0:0:0:0:1 - - [22/May/2018:10:00:47 +0200] "GET /WebStore/export.xls HTTP/1.1" 200 5632

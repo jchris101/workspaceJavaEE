@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;navigationSheet&apos; in &apos;fr.koor.webstore.servlet.XlsxExport.doGet(...)&apos; to &apos;articleSheet&apos;&#x0A;- Original project: &apos;WebStore&apos;&#x0A;- Original element: &apos;fr.koor.webstore.servlet.XlsxExport.doGet(HttpServletRequest, HttpServletResponse).navigationSheet&apos;&#x0A;- Renamed element: &apos;navigationSheet&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;navigationSheet&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;fr.koor.webstore.servlet{XlsxExport.java[XlsxExport~doGet~QHttpServletRequest;~QHttpServletResponse;@navigationSheet!2139!2209!2149!2163!QHSSFSheet;!0!false" name="articleSheet" references="true" stamp="1525971021383" version="1.0"/>
+</session>

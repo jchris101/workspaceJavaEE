@@ -1,0 +1,8 @@
+1528360143673	Rename type 'XSSRequestWrapper'
+1528360190923	Rename local variable 'encodedValues'
+1528360242027	Rename local variable 'parameter'
+1528360405560	Rename method 'stripXSS'
+1528370243661	Rename local variable 'writer'
+1528371142443	Move file
+1528371156291	Move file
+1528371673089	Move 'extratags.tld' to 'WEB-INF'

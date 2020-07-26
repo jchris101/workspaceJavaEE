@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;fr.koor.webstore.servlet.XlsxExport&apos; to &apos;XlsExport&apos;&#x0A;- Original project: &apos;WebStore&apos;&#x0A;- Original element: &apos;fr.koor.webstore.servlet.XlsxExport&apos;&#x0A;- Renamed element: &apos;fr.koor.webstore.servlet.XlsExport&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;XlsxExport&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;fr.koor.webstore.servlet{XlsxExport.java[XlsxExport" matchStrategy="1" name="XlsExport" qualified="false" references="true" similarDeclarations="false" stamp="1526809630009" textual="false" version="1.0"/>
+</session>

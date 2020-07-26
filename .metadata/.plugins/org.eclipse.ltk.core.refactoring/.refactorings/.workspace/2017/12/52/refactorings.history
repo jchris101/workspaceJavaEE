@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;WebStore/WebContent/WEB-INF/lib/sqljdbc42.jar&apos;" deleteContents="false" description="Delete resource &apos;WebStore/WebContent/WEB-INF/lib/sqljdbc42.jar&apos;" element1="/WebStore/WebContent/WEB-INF/lib/sqljdbc42.jar" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1514648469850"/>
+</session>

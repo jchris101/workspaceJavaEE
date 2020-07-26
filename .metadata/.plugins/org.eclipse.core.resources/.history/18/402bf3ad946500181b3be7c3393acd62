@@ -1,0 +1,12 @@
+package fr.koor.webstore.servlet;
+
+import javax.servlet.http.HttpServlet;
+
+public class PDFExport extends HttpServlet {
+
+	private static final long serialVersionUID = 7609134248482865644L;
+
+	
+	
+	
+}

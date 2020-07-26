@@ -1,0 +1,33 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.logging.Logger"><rhs name\="java.util.logging.Logger"/></lhs><lhs name\="javax.servlet.ServletResponse"><rhs name\="javax.servlet.http.HttpServletResponseWrapper"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/><rhs name\="org.apache.poi.xssf.usermodel.XSSFWorkbook"/><rhs name\="org.apache.poi.hssf.usermodel.HSSFWorkbook"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="fr.koor.webstore.business.ShoppingCartLine"><rhs name\="fr.koor.webstore.business.ShoppingCartLine"/></lhs><lhs name\="org.apache.poi.ss.usermodel.Workbook"><rhs name\="org.apache.poi.xssf.usermodel.XSSFWorkbook"/><rhs name\="org.apache.poi.hssf.usermodel.HSSFWorkbook"/></lhs><lhs name\="java.io.Closeable"><rhs name\="org.apache.poi.xssf.usermodel.XSSFWorkbook"/><rhs name\="org.apache.poi.hssf.usermodel.HSSFWorkbook"/><rhs name\="com.itextpdf.kernel.pdf.PdfWriter"/><rhs name\="com.itextpdf.kernel.pdf.PdfDocument"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="org.apache.poi.xssf.usermodel.XSSFWorkbook"/><rhs name\="org.apache.poi.hssf.usermodel.HSSFWorkbook"/><rhs name\="com.itextpdf.kernel.pdf.PdfWriter"/><rhs name\="com.itextpdf.kernel.pdf.PdfDocument"/></lhs><lhs name\="org.apache.poi.POIXMLDocument"><rhs name\="org.apache.poi.xssf.usermodel.XSSFWorkbook"/></lhs><lhs name\="org.apache.poi.POIXMLDocumentPart"><rhs name\="org.apache.poi.xssf.usermodel.XSSFWorkbook"/></lhs><lhs name\="org.apache.poi.xssf.usermodel.XSSFWorkbook"><rhs name\="org.apache.poi.xssf.usermodel.XSSFWorkbook"/></lhs><lhs name\="org.apache.poi.POIDocument"><rhs name\="org.apache.poi.hssf.usermodel.HSSFWorkbook"/></lhs><lhs name\="java.lang.Enum"><rhs name\="org.apache.poi.ss.usermodel.HorizontalAlignment"/></lhs><lhs name\="com.itextpdf.kernel.pdf.PdfPrimitiveObject"><rhs name\="com.itextpdf.kernel.pdf.PdfName"/></lhs><lhs name\="com.itextpdf.kernel.pdf.PdfObject"><rhs name\="com.itextpdf.kernel.pdf.PdfName"/><rhs name\="com.itextpdf.kernel.pdf.PdfLiteral"/></lhs><lhs name\="com.itextpdf.kernel.pdf.PdfName"><rhs name\="com.itextpdf.kernel.pdf.PdfName"/></lhs><lhs name\="com.itextpdf.kernel.pdf.PdfOutputStream"><rhs name\="com.itextpdf.kernel.pdf.PdfWriter"/></lhs><lhs name\="com.itextpdf.io.source.OutputStream"><rhs name\="com.itextpdf.kernel.pdf.PdfWriter"/></lhs><lhs name\="java.io.OutputStream"><rhs name\="com.itextpdf.kernel.pdf.PdfWriter"/></lhs><lhs name\="java.io.Flushable"><rhs name\="com.itextpdf.kernel.pdf.PdfWriter"/></lhs><lhs name\="com.itextpdf.kernel.pdf.PdfWriter"><rhs name\="com.itextpdf.kernel.pdf.PdfWriter"/></lhs><lhs name\="com.itextpdf.kernel.events.IEventDispatcher"><rhs name\="com.itextpdf.kernel.pdf.PdfDocument"/></lhs><lhs name\="com.itextpdf.kernel.pdf.PdfDocument"><rhs name\="com.itextpdf.kernel.pdf.PdfDocument"/></lhs><lhs name\="com.itextpdf.kernel.pdf.canvas.PdfCanvas"><rhs name\="com.itextpdf.kernel.pdf.canvas.PdfCanvas"/></lhs><lhs name\="fr.koor.webstore.business.Article"><rhs name\="fr.koor.webstore.business.Article"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.Locale"/></lhs></history>
+content_assist_number_of_computers=24
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+editor_folding_enabled=false
+fontPropagated=true
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.editor.tab.width=
+org.eclipse.jdt.ui.formatterprofiles.version=13
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.jface.textfont=1|Monospace|10.0|0|GTK|1|;
+proposalOrderMigrated=true
+spelling_ignore_ampersand_in_properties=true
+spelling_ignore_digits=true
+spelling_ignore_java_strings=true
+spelling_ignore_mixed=true
+spelling_ignore_non_letters=true
+spelling_ignore_sentence=true
+spelling_ignore_single_letters=true
+spelling_ignore_upper=true
+spelling_ignore_urls=true
+spelling_locale_initialized=true
+spelling_user_dictionary_encoding=
+tabWidthPropagated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

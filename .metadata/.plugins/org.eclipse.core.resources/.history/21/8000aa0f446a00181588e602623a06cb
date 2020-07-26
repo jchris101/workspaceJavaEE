@@ -1,0 +1,56 @@
+package fr.koor.webstore.ihm.tags;
+
+import javax.servlet.jsp.JspException;
+import javax.servlet.jsp.tagext.TagSupport;
+
+public class LoginForm extends TagSupport {
+
+	private String action;
+	private String login;
+	private String password;
+	
+	
+	
+	public String getAction() {
+		return action;
+	}
+	
+	public void setAction(String action) {
+		this.action = action;
+	}
+	
+	public String getLogin() {
+		return login;
+	}
+	
+	public void setLogin(String login) {
+		this.login = login;
+	}
+	
+	public String getPassword() {
+		return password;
+	}
+	
+	public void setPassword(String password) {
+		this.password = password;
+	}
+	
+	@Override
+	public void release() {
+		login = "";
+		password = "";
+		action = null;
+	}
+	
+	
+	@Override
+	public int doStartTag() throws JspException {
+		
+	}
+	
+	@Override
+	public int doEndTag() throws JspException {
+		
+	}
+	
+}
